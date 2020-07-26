@@ -590,7 +590,7 @@ html {
   }
 
   .fontAwesome {
-    padding: 20px;
+    padding: 10px;
     border-radius: 50%;
     background: #2131b6;
     width: 60px;
@@ -788,8 +788,8 @@ html {
   } */
 
   .contactIconSecFont {
-    font-size: 9px;
-    width: 100px;
+    font-size: 8px;
+    width: 70px;
   }
 
   .galleryFont {
